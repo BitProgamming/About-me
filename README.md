@@ -11,7 +11,6 @@ I enjoy learning new things in IT, especially in network management, server conf
 
 🛠️ Skills & Expertise
 
-🌐 Network Configuration (LAN/WAN)
 
 ⚙️ System Administration (Linux & Windows Server)
 
@@ -25,6 +24,7 @@ I enjoy learning new things in IT, especially in network management, server conf
 
 
 🏆 Achievements
+
 
 🥇 1st Place LKS IT Network System Administration (ITNSA) at Regency Level
 
