@@ -8,6 +8,7 @@
 I am a fresh graduate from a vocational high school majoring in Computer and Network Engineering. I have a strong interest and passion in networking and system administration.
 I enjoy learning new things in IT, especially in network management, server configuration, and system troubleshooting. I am able to work both independently and in a team, with strong problem-solving skills to handle technical challenges.
 
+
 🛠️ Skills & Expertise
 
 🌐 Network Configuration (LAN/WAN)
@@ -22,7 +23,9 @@ I enjoy learning new things in IT, especially in network management, server conf
 
 🔐 Basic Network Security
 
+
 🏆 Achievements
+
 🥇 1st Place LKS IT Network System Administration (ITNSA) at Regency Level
 
 🎖️ 7th Place LKS ITNSA at Provincial Level
