@@ -1,3 +1,3 @@
 apt update
 apt install wireguard -y
-wg genkey | tee server_private.key | wg pubkey > server_public.key
+wg genkey | tee private.key | wg pubkey > public.key
