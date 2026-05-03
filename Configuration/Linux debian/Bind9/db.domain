@@ -1,2 +1,18 @@
-##Add new dns record##
+##Add new dns forward record##
 
+$TTL    604800
+@       IN      SOA     ns.bibit.id. root.bibit.id. (
+                        2         ; Serial
+                        604800    ; Refresh
+                        86400     ; Retry
+                        2419200   ; Expire
+                        604800 )  ; Negative Cache TTL
+
+; Name Server
+@       IN      NS      ns.bibt.id.
+
+; A Record
+ns      IN      A       192.168.10.1
+server  IN      A       192.168.10.2
+client  IN      A       192.168.10.3
+www     IN      A       192.168.10.2
